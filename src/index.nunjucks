@@ -98,21 +98,17 @@
                 <div class="adrides-keyfeature">
                   <div class="adrides-keyfeature-content">
 
-                    {# <div class="adrides-keyfeature-parking" >
-                      <img src="../images/wonder/wonder_parking.png" />
-                    </div> #}
+                    <div class="adrides-keyfeature-parking" >
+                      <img src="../images/addams/Morticia.png" />
+                    </div>
 
                     <div class="store-description">
                       <p class="store-description-title" style="text-align: start;">Key Features </p><br/>
-                      <p class="store-description-content">Play now the official park building game of the new “Wonder Park” animated film from Paramount Pictures, from the big screen to your phone. </p><br/>
-
-                      <p class="store-description-content">🎢 RIDES: Build awesome Rides and watch them go! Fully animated ROLLERCOASTERS, spinning Rides, Flying Chairs, Ferris Wheels, and MORE!</p><br/>
-                      <p class="store-description-content">🛠 BUILD: You are the CREATOR of Wonder Park! Every area of the Theme Park can be customized to your liking. Add Decorations, Attractions, roads and more to make WONDER PARK your OWN!</p><br/>
-                      <p class="store-description-content">📊 PARK MANAGEMENT: Become a THEME PARK TYCOON! Collect, Craft and Sell items to keep your Theme Park happy and flourishing. Have as many VISITORS as possible and fill your HAPPINESS METER!</p><br/>
-                      <p class="store-description-content">🙉 COLLECT WONDERCHIMPS: Add all your favorite WonderChimps to your Park! There are many to collect, and more will be added regularly. Watch out for Chimpanzombies looking to dismantle your Park’s attractions! </p><br/>
-                      <p class="store-description-content">🍭CRAFT: Get ingredients and cook Amusement Park staples like Popcorn, Candy Apples, Ice Cream, Burgers and more! </p><br/>
-                      <p class="store-description-content">😄 ENTERTAIN: Your Visitors will send you on hundreds of FUN QUESTS! Fulfill their wishes to gain experience and unlock MORE CONTENT! </p><br/>
-                      <p class="store-description-content">👻 FRIENDS: Visit your Friends and steal ideas for your own Park!</p>
+                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. </p>
+                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur</p>
+                      <p class="store-description-content">+ Over 10 playable characters! </p>
+                      <p class="store-description-content">+ Craft and sell new items! </p>
+                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
                     </div>
 
                     
@@ -164,11 +160,16 @@
                   <p class="title">About ADDAMS FAMILY</p>
                   <p class="description">Wonder Park tells the story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive. One magical day, June is running through the woods to find her way home where she discovers an old rollercoaster car and climbs inside. She suddenly finds herself in Wonderland, an amusement park she had created in her mind and put aside. All of her rides and characters are brought to life but are falling into disarray without her. Now, with the help of her fun and lovable park characters, June will have to put the wonder back in Wonderland before it is lost forever.. <b><a href="http://www.addamsfamily.com">www.addamsfamily.com </a></b></p>
                 </div>
-                <div class="about-logo-section">
-                  <div class="logo-item"><img src="../images/addams/animoca.png"/></div>
-                  <div class="logo-item"><img src="../images/addams/pixowl.png"/></div>
-                  <div class="logo-item"><img src="../images/addams/mgm.png"/></div>
+                <div>
+                  <div class="about-logo-concave1"></div>
+                  <div class="about-logo-section">
+                    <div class="logo-item"><img src="../images/addams/animoca.png"/></div>
+                    <div class="logo-item"><img src="../images/addams/pixowl.png"/></div>
+                    <div class="logo-item"><img src="../images/addams/mgm.png"/></div>
+                  </div>
+                  <div class="about-logo-concave2"></div>
                 </div>
+                
               </div>
             </div>
       </div>

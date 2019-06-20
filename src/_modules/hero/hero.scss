@@ -8,19 +8,19 @@
 
     @media (max-width: $m992){
         .wonder-bg{
-            content: url("../images/wonder/wonder_bg_tablet.jpg");
+            content: url("../images/addams/backgrouns_tablet.png");
         }               
     }   
     
     @media (max-width: 767px){
         .wonder-bg{
-            content: url("../images/wonder/wonder_bg_mobile.jpg");
+            content: url("../images/addams/backgrouns_mobile.png");
         }               
     }  
 
     @media (max-width: 480px){
         .wonder-bg{
-            content: url("../images/wonder/wonder_bg_x_mobile.jpg");
+            content: url("../images/addams/backgrouns_x_mobile.png");
         }               
     } 
 
