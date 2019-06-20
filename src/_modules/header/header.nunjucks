@@ -8,7 +8,7 @@
 <div class="header fixed {{spec.class}}">
   <div class="header-content">
     <a href="https://www.sandbox.game/">
-      <img src="../images/wonder/wonder_logo.png" alt="" class="header-img">
+      <img src="../images/addams/Logo_Addams_Menu.png" alt="" class="header-img">
     </a>
   
     {{ nav.content() }}
