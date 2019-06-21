@@ -20,132 +20,135 @@
       <div class="adrides-coming-mark">
         <img src="../images/addams/coming-soon.png"/>
       </div>
-      <div class="wrapper">      
-            <div class="adrides">
-                <div class="adrides-wonder-title">      
-                    <img src="../images/addams/MainLogo.png" alt="Wonder_Park">  
-                </div>
-
-
-                <div class="adrides-store">
-                  <div class="adrides-store-girl" >
-                    <img src="../images/addams/AppIcon.png"/>
+      <div class="wrapper">
+            <div class="adries-border">    
+              <div class="adrides">
+                  <div class="adrides-wonder-title">      
+                      <img src="../images/addams/MainLogo.png" alt="Wonder_Park">  
                   </div>
-                  <div class="adrides-store-content">
-                    <div class="store-btn-group">
-                      <div>
-                        <a>
-                          <img src="http://goosebumps.town/images/apple.store.btn.svg" />
-                        </a>
+
+
+                  <div class="adrides-store">
+                    <div class="adrides-store-girl" >
+                      <img src="../images/addams/AppIcon.png"/>
+                    </div>
+                    <div class="adrides-store-content">
+                      <div class="store-btn-group">
+                        <div>
+                          <a>
+                            <img src="http://goosebumps.town/images/apple.store.btn.svg" />
+                          </a>
+                        </div>
+                        <div>
+                          <a>
+                            <img src="http://goosebumps.town/images/google.play.btn.svg" />
+                          </a>
+                        </div>
                       </div>
-                      <div>
+
+                      <div class="store-description">
+                        <p class="store-description-title">Create the park of your dreams!</p>
+                        <p class="store-description-content">Build awesome rollercoasters, craft items, collect Wonderchimps, decorate your Park and manage your visitors to become a true Tycoon.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="adrides-waterwheel">
+                      <img src="../images/addams/It.png" />
+                  </div>
+
+                  {# Wonder Video #}
+                  {# <iframe width="560" height="315" src="https://www.youtube.com/embed/-x3GtNq_kEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> #}
+                  <div class="adrides-video">
+                    <div class="videoWrapper">
+                      {# <img src="../images/wonder/parking_video.jpg"   /> #}
+                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/_0i1EUeDeOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      {# <img class="play_btn" src="../images/wonder/play_btn.png" /> #}
+                    </div>
+                    
+                  </div>
+
+
+                  {# Wonder Learn More #}
+                  <div class="adrides-learnmore">
+                    <div class="adrides-learnmore-avatar" >
+                      <img src="../images/addams/mirror.png"/>
+                    </div>
+
+                    <div class="adrides-learnmore-content">
+                      
+
+                      <div class="store-description">
+                        <p class="store-description-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        <p class="store-description-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+                      </div>
+
+
+                      <div class="learnmore-btn">
                         <a>
-                          <img src="http://goosebumps.town/images/google.play.btn.svg" />
+                          <img src="../images/addams/learn_more.png" />
                         </a>
                       </div>
                     </div>
-
-                    <div class="store-description">
-                      <p class="store-description-title">Create the park of your dreams!</p>
-                      <p class="store-description-content">Build awesome rollercoasters, craft items, collect Wonderchimps, decorate your Park and manage your visitors to become a true Tycoon.</p>
-                    </div>
                   </div>
-                </div>
 
-                <div class="adrides-waterwheel">
-                    <img src="../images/addams/It.png" />
-                </div>
 
-                {# Wonder Video #}
-                {# <iframe width="560" height="315" src="https://www.youtube.com/embed/-x3GtNq_kEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> #}
-                <div class="adrides-video">
-                  <div class="videoWrapper">
-                    {# <img src="../images/wonder/parking_video.jpg"   /> #}
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/_0i1EUeDeOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    {# <img class="play_btn" src="../images/wonder/play_btn.png" /> #}
-                  </div>
                   
-                </div>
 
+                  {# KEY FEATURE #}
+                  <div class="adrides-keyfeature">
+                    {# <div class="adrides-keyfeature-border"> #}
+                      <div class="adrides-keyfeature-content">
 
-                {# Wonder Learn More #}
-                <div class="adrides-learnmore">
-                  <div class="adrides-learnmore-avatar" >
-                    <img src="../images/addams/mirror.png"/>
+                        <div class="adrides-keyfeature-parking" >
+                          <img src="../images/addams/Morticia.png" />
+                        </div>
+
+                        <div class="store-description">
+                          <p class="store-description-title" style="text-align: start;">Key Features </p><br/>
+                          <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. </p>
+                          <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur</p>
+                          <p class="store-description-content">+ Over 10 playable characters! </p>
+                          <p class="store-description-content">+ Craft and sell new items! </p>
+                          <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
+                        </div>
+
+                        
+                      </div>
+                    {# </div> #}
                   </div>
 
-                  <div class="adrides-learnmore-content">
-                    
+                  
+                  {# <div class="adrides-park-img" >
+                      <img src="../images/wonder/wonder_parking.png" />
+                  </div> #}
 
-                    <div class="store-description">
-                      <p class="store-description-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                      <p class="store-description-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
-                    </div>
-
-
-                    <div class="learnmore-btn">
-                      <a>
-                        <img src="../images/addams/learn_more.png" />
-                      </a>
-                    </div>
-                  </div>
-                </div>
-
-
-                
-
-                {# KEY FEATURE #}
-                <div class="adrides-keyfeature">
-                  <div class="adrides-keyfeature-content">
-
-                    <div class="adrides-keyfeature-parking" >
-                      <img src="../images/addams/Morticia.png" />
-                    </div>
-
-                    <div class="store-description">
-                      <p class="store-description-title" style="text-align: start;">Key Features </p><br/>
-                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. </p>
-                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur</p>
-                      <p class="store-description-content">+ Over 10 playable characters! </p>
-                      <p class="store-description-content">+ Craft and sell new items! </p>
-                      <p class="store-description-content">+ Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
-                    </div>
-
-                    
-                  </div>
-                </div>
-
-                
-                {# <div class="adrides-park-img" >
-                    <img src="../images/wonder/wonder_parking.png" />
-                </div> #}
-
-                {# Slider #}
-                <div class="wonder-carusel rio-promos">
-                  <img src="../images/addams/slider1.png">
-                  <img src="../images/addams/slider2.png">
-                  <img src="../images/addams/slider1.png">
-                  <img src="../images/addams/slider2.png">
-                </div>
-
-                
-
-                {# Bag #}
-                <div class="adrides-bag">
-                  <div class="adrides-bag-avatar" >
-                    <img src="../images/addams/Dining-Set.png"/>
+                  {# Slider #}
+                  <div class="wonder-carusel rio-promos">
+                    <img src="../images/addams/slider1.png">
+                    <img src="../images/addams/slider2.png">
+                    <img src="../images/addams/slider1.png">
+                    <img src="../images/addams/slider2.png">
                   </div>
 
-                  <div class="adrides-bag-content">
-                    <div class="bag-description">
-                      <p class="bag-description-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
-                      <p class="bag-description-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.</p>
+                  
+
+                  {# Bag #}
+                  <div class="adrides-bag">
+                    <div class="adrides-bag-avatar" >
+                      <img src="../images/addams/Dining-Set.png"/>
+                    </div>
+
+                    <div class="adrides-bag-content">
+                      <div class="bag-description">
+                        <p class="bag-description-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...</p>
+                        <p class="bag-description-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.</p>
+                      </div>
                     </div>
                   </div>
-                </div>
-       
+        
+              </div>
             </div>
-
             <div class="about">
               <div class="about-logo">
                 <img src="../images/addams/family_group.png"/>
@@ -161,13 +164,13 @@
                   <p class="description">Wonder Park tells the story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive. One magical day, June is running through the woods to find her way home where she discovers an old rollercoaster car and climbs inside. She suddenly finds herself in Wonderland, an amusement park she had created in her mind and put aside. All of her rides and characters are brought to life but are falling into disarray without her. Now, with the help of her fun and lovable park characters, June will have to put the wonder back in Wonderland before it is lost forever.. <b><a href="http://www.addamsfamily.com">www.addamsfamily.com </a></b></p>
                 </div>
                 <div>
-                  <div class="about-logo-concave1"></div>
-                  <div class="about-logo-section">
-                    <div class="logo-item"><img src="../images/addams/animoca.png"/></div>
-                    <div class="logo-item"><img src="../images/addams/pixowl.png"/></div>
-                    <div class="logo-item"><img src="../images/addams/mgm.png"/></div>
+                  <div class="about-logo-border">
+                    <div class="about-logo-section">
+                      <div class="logo-item"><img src="../images/addams/animoca.png"/></div>
+                      <div class="logo-item"><img src="../images/addams/pixowl.png"/></div>
+                      <div class="logo-item"><img src="../images/addams/mgm.png"/></div>
+                    </div>
                   </div>
-                  <div class="about-logo-concave2"></div>
                 </div>
                 
               </div>
