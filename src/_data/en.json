@@ -1,26 +1,26 @@
 {
 	"global": {
 		"lang": "en",
-		"titleTag": "ADDAMS Family Mobile Game by Pixowl",
+		"titleTag": "Addams Family Mystery Mansion Mobile Game for iOS & Android",
 		
 
-		"description": "Description Here",
+		"description": "Get legendary sweethearts Morticia and Gomez plus Wednesday, Pugsley, Uncle Fester and more. BUILD them a house that’s the stuff of NIGHTMARES!",
 		"properties":[
 			{
 				"name":"og:title",
-				"content":"Wonder Park Magic Rides Mobile Game by Pixowl" 
+				"content":"Addams Family Mystery Mansion Mobile Game for iOS & Android" 
 			},
 			{
 				"name":"og:description",
-				"content": "Create the PARK of your dreams with WONDER PARK MAGIC RIDES! BUILD awesome rollercoasters, CRAFT items, COLLECT Wonderchimps, DECORATE your Park and MANAGE your Visitors to become a true TYCOON. Ever WONDERED what it would be like if your DREAM AMUSEMENT PARK came to life? Join the characters from the movie in an amazing PARK BUILDING adventure. Can you breathe LIFE back into Wonder Park? Start from zero and become a HERO!" 
+				"content": "Get legendary sweethearts Morticia and Gomez plus Wednesday, Pugsley, Uncle Fester and more. BUILD them a house that’s the stuff of NIGHTMARES!" 
 			},
 			{
 				"name":"og:url",
-				"content":"https://www.wonderpark.game" 
+				"content":"https://www.addamsfamily.game" 
 			},
 			{
 				"name":"og:site_name",
-				"content":"Wonder Park Magic Rides Mobile Game by Pixowl" 
+				"content":"Addams Family Mystery Mansion Mobile Game for iOS & Android" 
 			}
 		]
 
@@ -32,7 +32,7 @@
 				"name": "HOME",
 				"list_class": "nav-list_item",
 				"link_class": "nav-list_link",
-				"url": "http://www.wonderpark.game",
+				"url": "http://www.addams.game",
 				"target": "_blank"
 			},
 			{

@@ -33,7 +33,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     
     <link rel="stylesheet" href="{{baseUrl}}styles/main.css"/>
-    <link rel="shortcut icon" type="image/x-icon" href="../images/wonder/WonderPark-Icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../images/addams/Family.png">
    
    
     {% block stylesheets %}{% endblock %}
