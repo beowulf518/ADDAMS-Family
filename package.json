@@ -8,7 +8,7 @@
     "normalize.css": "~5.0.0",
     "npm": "^6.1.0",
     "scrollreveal": "^3.4.0",
-    "serve": "^6.5.4",
+    "serve": "^10.1.2",
     "swiper": "^4.3.2"
   },
   "devDependencies": {
