@@ -9,7 +9,7 @@
     "npm": "^6.1.0",
     "scrollreveal": "^3.4.0",
     "serve": "^6.5.4",
-    "swiper": "^4.3.2"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "babelify": "~7.3.0",
